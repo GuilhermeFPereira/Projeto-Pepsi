@@ -6,8 +6,8 @@ muito utilizavel para uma propaganda eficiente.</p>
 <br>
 <h3>Ilustração modo inicial, no desktop</h3>
 <br>
-<img src="https://github.com/GuilhermeFPereira/Projeto-Pepsi/blob/master/pepsi%20fechado.PNG?raw=true" width="600px">
+<img src="https://github.com/GuilhermeFPereira/Projeto-Pepsi/blob/master/logo%20fechado.PNG?raw=true">
 <br>
 <h3>Ilustração apos interação, no desktop</h3>
 <br>
-<img src="https://github.com/GuilhermeFPereira/Projeto-Pepsi/blob/master/pepsi%20aberto.png?raw=true" width="600px">
+<img src="https://github.com/GuilhermeFPereira/Projeto-Pepsi/blob/master/logo%20aberto.png?raw=true">
